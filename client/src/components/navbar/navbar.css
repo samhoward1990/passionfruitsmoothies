@@ -1,0 +1,13 @@
+.nav-div {
+    position: relative;
+}
+
+.positioned-nav {
+    position: absolute;
+    top: 50px;
+    width: 100%;
+}
+
+.logo-image {
+    position: absolute;
+}
